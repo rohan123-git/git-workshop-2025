@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name:Kumawat Rohan </li>
+  <li> Roll Number:160124737044 </li>
+  <li> Branch: IT-1</li>
 </ul>
 </details>
 <details>
